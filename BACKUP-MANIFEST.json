@@ -1,6 +1,6 @@
 {
-  "source_commit": "480aeca8104d3e068ee5616f808d05eaa559395a",
-  "sites_version": 28,
+  "source_commit": "5e212c8fcdb3d0af103006f75f1cb296b37c3148",
+  "sites_version": 29,
   "project_id": "appgprj_6ab7b9069e408191a2e75db6c09d6627",
   "files": {
     ".gitignore": "fe504d8ee83a3188fa72870d9d2181491bef78484958113fefde1d5790f87992",
@@ -82,7 +82,7 @@
     "components/ui/toggle-group.tsx": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
     "components/ui/toggle.tsx": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
     "components/ui/tooltip.tsx": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
-    "data/works.ts": "a261c186b8f764b3bfddb62257782175b2c35ee010ffd3491c85fe8c0ac6e0e0",
+    "data/works.ts": "f5dc936aac1cddf28fdd2f3864c6399a236e610643bb8b992bb1e31da2a45ce0",
     "db/index.ts": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
     "db/schema.ts": "ca38fe3e4240ce3696f7d849e586ca7b86dc2a3fb3b50305c6b0096a78660ea2",
     "drizzle.config.ts": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
@@ -242,8 +242,12 @@
     "README-starter.md": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7",
     "README.md": "8dcabe96e2de5a4ae40af90477a5723c3d298eac91d1d74ffc0e2d2b41121256",
     "AGENTS.md": "959425bccda345e669d76df7f69aaf79490f14b1efd04f2e68600f3f73df0dba",
-    "docs/REGISTRO-AGGIORNAMENTI.md": "ea468d8d09af09ec3a33d67f2cfb08880fb690f2eaf48239c1ac3f489690204b",
+    "docs/REGISTRO-AGGIORNAMENTI.md": "bb6d99cd1634865c76822a2fdbeed795b24e7de1966598cdf893ce44ef09524c",
     "public/opere/catalog/jupiter-01.webp": "8188a1b5886b37e178dfde98d44e3ac023dc7cd95932729c706ffb6ee782b5f5",
-    "public/opere/catalog/jupiter-02.webp": "edf8bd190b8e4b8054b9f6d7194ebdb6cf55f383ba4a011a88b2d88d84650a06"
+    "public/opere/catalog/jupiter-02.webp": "edf8bd190b8e4b8054b9f6d7194ebdb6cf55f383ba4a011a88b2d88d84650a06",
+    "public/opere/catalog/babe-01.webp": "939a952ec248e0d3c755496988c96523c85f7fb326ea92fe55837a00a8f24dd6",
+    "public/opere/catalog/babe-02.webp": "e87ca285f32a8b811aec64c50e97c6097b5020ba1bb0018b93dbb2dc0f5ba85a",
+    "public/opere/catalog/babe-03.webp": "20b9ebcb63c24a19cd87323bf99f52326a899536391c38aa1c57800dfe3e0bb2",
+    "public/opere/catalog/babe-04.webp": "9836bea0922770e5464c27fd7fe69d3fe696a053aa5396bf15c968a6290934c4"
   }
 }

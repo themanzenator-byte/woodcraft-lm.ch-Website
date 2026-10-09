@@ -5,6 +5,20 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // Le immagini successive alla prima sono le altre viste della stessa opera.
 export const works: Work[] = [
   {
+    "slug": "babe",
+    "title": "Babe",
+    "category": "ciotole",
+    "description": "Ciotola tornita dalle forme morbide, con due sottili linee scure che accompagnano le venature del legno.",
+    "images": ["/opere/catalog/babe-01.webp", "/opere/catalog/babe-02.webp", "/opere/catalog/babe-03.webp", "/opere/catalog/babe-04.webp"]
+  },
+  {
+    "slug": "jupiter",
+    "title": "Jupiter",
+    "category": "ciotole",
+    "description": "Ciotola tornita in legno di acacia, con venature calde e un caratteristico nodo scuro.",
+    "images": ["/opere/catalog/jupiter-01.webp", "/opere/catalog/jupiter-02.webp"]
+  },
+  {
     "slug": "twins",
     "title": "Twins",
     "category": "ciotole",

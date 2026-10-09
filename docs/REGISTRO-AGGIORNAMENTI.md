@@ -9,4 +9,10 @@
 ## 9 ottobre 2026 — Jupiter
 - Sites versione 28, sorgente 480aeca8104d3e068ee5616f808d05eaa559395a.
 - Jupiter aggiunta a Ciotole: acacia, due foto; la prima è principale.
-- Listino privato su Google Drive: codice 041, CHF 12, disponibile. I prezzi non sono pubblicati nel sito o in questa copia.
+- Listino privato su Google Drive aggiornato con codice 041. I prezzi non sono pubblicati nel sito o in questa copia.
+
+## 9 ottobre 2026 — Babe
+- Sites versione 29, sorgente 5e212c8fcdb3d0af103006f75f1cb296b37c3148.
+- Babe aggiunta a Ciotole: quattro foto, la prima è principale.
+- Listino privato su Google Drive aggiornato con codice 042; prezzi non pubblicati sul sito.
+- Rimossa dal sorgente Sites una vecchia build compressa tracciata per errore.
