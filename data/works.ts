@@ -1,9 +1,16 @@
-export type Category = "lampade" | "ciotole" | "vasi";
+export type Category = "lampade" | "ciotole" | "vasi" | "piatti";
 export type Work = { slug: string; title: string; category: Category; images: string[]; description?: string };
 
 // Per aggiungere un'opera: salva le foto in public/opere/catalog e aggiungi una scheda qui.
 // Le immagini successive alla prima sono le altre viste della stessa opera.
 export const works: Work[] = [
+  {
+    "slug": "telly",
+    "title": "Telly",
+    "category": "piatti",
+    "description": "Piatto tornito in legno di sequoia, con venature concentriche dai toni caldi e un bordo morbido e arrotondato.",
+    "images": ["/opere/catalog/telly-01.webp", "/opere/catalog/telly-02.webp", "/opere/catalog/telly-03.webp", "/opere/catalog/telly-04.webp"]
+  },
   {
     "slug": "babe",
     "title": "Babe",
@@ -411,6 +418,7 @@ export const categories: { id: Category; label: string }[] = [
   { id: "lampade", label: "Lampade" },
   { id: "vasi", label: "Vasi" },
   { id: "ciotole", label: "Ciotole" },
+  { id: "piatti", label: "Piatti" },
 ];
 
 export const legacySlugs: Record<string, string> = {

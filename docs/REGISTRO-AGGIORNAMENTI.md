@@ -16,3 +16,8 @@
 - Babe aggiunta a Ciotole: quattro foto, la prima è principale.
 - Listino privato su Google Drive aggiornato con codice 042; prezzi non pubblicati sul sito.
 - Rimossa dal sorgente Sites una vecchia build compressa tracciata per errore.
+
+## 9 ottobre 2026 — Telly
+- Sites versione 30, sorgente 940f656e4096f0b1f461226b68f76d1a58da657e.
+- Nuova categoria Piatti; Telly in sequoia con quattro foto, la prima principale.
+- Listino privato aggiornato con codice 043; prezzi esclusi dai sorgenti pubblici.
