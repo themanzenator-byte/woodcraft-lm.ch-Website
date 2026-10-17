@@ -22,3 +22,9 @@
 - Nuova categoria Piatti; Telly in sequoia con quattro foto, la prima principale.
 - Listino privato aggiornato con codice 043; prezzi esclusi dai sorgenti pubblici.
 - Commit GitHub dei sorgenti e delle foto: aac27c44f88c1e0a908317d8d7c6026f388d0130.
+
+## 17 ottobre 2026 — Didi
+- Sites versione 31, sorgente 780dd1da6b88bc9e78d1ef19a5fced4713936221.
+- Didi aggiunta a Ciotole: tre foto su fondo bianco, prima foto principale.
+- Listino privato aggiornato con codice 044; prezzi esclusi dai sorgenti pubblici.
+- Manifest aggiornato anche per Telly e la categoria Piatti della versione 30.

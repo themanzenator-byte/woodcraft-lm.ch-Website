@@ -5,6 +5,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // Le immagini successive alla prima sono le altre viste della stessa opera.
 export const works: Work[] = [
   {
+    "slug": "didi",
+    "title": "Didi",
+    "category": "ciotole",
+    "description": "Ciotola tornita dal bordo morbido e irregolare, con venature naturali che disegnano trame uniche sulla superficie del legno.",
+    "images": ["/opere/catalog/didi-01.webp", "/opere/catalog/didi-02.webp", "/opere/catalog/didi-03.webp"]
+  },
+  {
     "slug": "telly",
     "title": "Telly",
     "category": "piatti",
