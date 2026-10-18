@@ -33,3 +33,8 @@
 - Sites versione 32, sorgente 35fda6ad11238575693cc3274de35eb0076ad2ff.
 - Cracks aggiunta a Ciotole: tre foto su fondo bianco, prima foto principale.
 - Listino privato aggiornato con codice 045; prezzi esclusi dai sorgenti pubblici.
+
+## 18 ottobre 2026 — Ufo
+- Sites versione 33, sorgente a41c583c320f05093124629a97dd6894b1ad4ff1.
+- Ufo aggiunto a Piatti: rovere, tre foto su fondo bianco; prima foto principale.
+- Listino privato aggiornato con codice 046; prezzi esclusi dai sorgenti pubblici.

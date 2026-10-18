@@ -1,6 +1,6 @@
 {
-  "source_commit": "35fda6ad11238575693cc3274de35eb0076ad2ff",
-  "sites_version": 32,
+  "source_commit": "a41c583c320f05093124629a97dd6894b1ad4ff1",
+  "sites_version": 33,
   "project_id": "appgprj_6ab7b9069e408191a2e75db6c09d6627",
   "files": {
     ".gitignore": "fe504d8ee83a3188fa72870d9d2181491bef78484958113fefde1d5790f87992",
@@ -82,7 +82,7 @@
     "components/ui/toggle-group.tsx": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
     "components/ui/toggle.tsx": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
     "components/ui/tooltip.tsx": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
-    "data/works.ts": "dd8f91036a52fd01acb60c90e6ae86f7e5650aea022c6b9bc34489f73a2e67cd",
+    "data/works.ts": "c64ae1014de04696182bf21a9146dc1ef7d1bdbdcd9a097d413827b32ff0c4e2",
     "db/index.ts": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
     "db/schema.ts": "ca38fe3e4240ce3696f7d849e586ca7b86dc2a3fb3b50305c6b0096a78660ea2",
     "drizzle.config.ts": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
@@ -242,7 +242,7 @@
     "README-starter.md": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7",
     "README.md": "8dcabe96e2de5a4ae40af90477a5723c3d298eac91d1d74ffc0e2d2b41121256",
     "AGENTS.md": "959425bccda345e669d76df7f69aaf79490f14b1efd04f2e68600f3f73df0dba",
-    "docs/REGISTRO-AGGIORNAMENTI.md": "de00d19801a2cc1d3502d3dd97f4d0649bd2fb311967ef31b9065384d6669a0a",
+    "docs/REGISTRO-AGGIORNAMENTI.md": "7474ed84428a9e88a73c00d6bfb32e40496fe9119321a5838ce8a8ae3f529311",
     "public/opere/catalog/jupiter-01.webp": "8188a1b5886b37e178dfde98d44e3ac023dc7cd95932729c706ffb6ee782b5f5",
     "public/opere/catalog/jupiter-02.webp": "edf8bd190b8e4b8054b9f6d7194ebdb6cf55f383ba4a011a88b2d88d84650a06",
     "public/opere/catalog/babe-01.webp": "939a952ec248e0d3c755496988c96523c85f7fb326ea92fe55837a00a8f24dd6",
@@ -258,6 +258,9 @@
     "public/opere/catalog/telly-04.webp": "d686af53c43fecfef63525585f0d0f15f2f8703c299cda5a866ea2547d90935a",
     "public/opere/catalog/cracks-01.webp": "4479362bf4ab3f74f973c3a38ea31e4a732462e502450b0910087a27fc5a1fdc",
     "public/opere/catalog/cracks-02.webp": "e936b5e389b3722c2c4a6878986865d9d8753e91ee9ca7d6ae6e098886ac8fa0",
-    "public/opere/catalog/cracks-03.webp": "44084057bee2e2c309be3a6695b132789547c6cf574601b2eb1d36613616d5f4"
+    "public/opere/catalog/cracks-03.webp": "44084057bee2e2c309be3a6695b132789547c6cf574601b2eb1d36613616d5f4",
+    "public/opere/catalog/ufo-01.webp": "291a95ba9ccf8938c5f7e6d362cd78cc392227d2d31cb1eb3388dd869c9d077e",
+    "public/opere/catalog/ufo-02.webp": "56a3e7614ca3b12c7b3ce5a0a0e2e4d872f1f545ea2debd333e6319df69d885a",
+    "public/opere/catalog/ufo-03.webp": "31e0b5a741cc05ef0f001fd3c56bb3502b07f7d02d6ebdef5995ba0213f086c8"
   }
 }

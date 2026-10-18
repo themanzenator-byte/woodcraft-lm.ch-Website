@@ -5,6 +5,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // Le immagini successive alla prima sono le altre viste della stessa opera.
 export const works: Work[] = [
   {
+    "slug": "ufo",
+    "title": "Ufo",
+    "category": "piatti",
+    "description": "Piatto tornito in legno di rovere, dal profilo basso e arrotondato, con venature fitte e una sottile linea scura che ne segue il bordo.",
+    "images": ["/opere/catalog/ufo-01.webp", "/opere/catalog/ufo-02.webp", "/opere/catalog/ufo-03.webp"]
+  },
+  {
     "slug": "cracks",
     "title": "Cracks",
     "category": "ciotole",
