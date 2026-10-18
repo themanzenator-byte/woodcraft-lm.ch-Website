@@ -28,3 +28,8 @@
 - Didi aggiunta a Ciotole: tre foto su fondo bianco, prima foto principale.
 - Listino privato aggiornato con codice 044; prezzi esclusi dai sorgenti pubblici.
 - Manifest aggiornato anche per Telly e la categoria Piatti della versione 30.
+
+## 18 ottobre 2026 — Cracks
+- Sites versione 32, sorgente 35fda6ad11238575693cc3274de35eb0076ad2ff.
+- Cracks aggiunta a Ciotole: tre foto su fondo bianco, prima foto principale.
+- Listino privato aggiornato con codice 045; prezzi esclusi dai sorgenti pubblici.
