@@ -3,6 +3,8 @@ export type Work = { slug: string; title: string; category: Category; images: st
 
 // Per aggiungere un'opera: salva le foto in public/opere/catalog e aggiungi una scheda qui.
 // Le immagini successive alla prima sono le altre viste della stessa opera.
+// Foto: opera interamente visibile; margine bianco uniforme circa 6–8% per lato,
+// soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
     "slug": "ufo",

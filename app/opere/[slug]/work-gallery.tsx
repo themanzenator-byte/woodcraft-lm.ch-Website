@@ -25,18 +25,18 @@ export default function WorkGallery({ title, images }: { title: string; images: 
   return <div className="work-gallery" aria-label={`Fotografie di ${title}`} tabIndex={hasMultiple ? 0 : undefined} onKeyDown={onKeyDown}>
     <div className="work-gallery-stage" onTouchStart={event => setTouchStart(event.touches[0].clientX)} onTouchEnd={onTouchEnd}>
       <Image key={images[active]} src={images[active]} alt={`${title}, vista ${active + 1} di ${images.length}`} fill sizes="(max-width: 800px) 100vw, 60vw" style={{ objectFit: "contain" }} priority={active === 0} />
-      {hasMultiple && <>
-        <button className="work-gallery-arrow prev" type="button" onClick={() => show(-1)} aria-label="Fotografia precedente">‹</button>
-        <button className="work-gallery-arrow next" type="button" onClick={() => show(1)} aria-label="Fotografia successiva">›</button>
-      </>}
     </div>
     {hasMultiple && <div className="work-gallery-bottom">
+      <div className="work-gallery-navigation">
+        <button className="work-gallery-arrow prev" type="button" onClick={() => show(-1)} aria-label="Fotografia precedente">‹</button>
+        <span className="work-gallery-count" aria-live="polite">{String(active + 1).padStart(2, "0")} / {String(images.length).padStart(2, "0")}</span>
+        <button className="work-gallery-arrow next" type="button" onClick={() => show(1)} aria-label="Fotografia successiva">›</button>
+      </div>
       <div className="work-gallery-thumbnails" aria-label="Scegli una fotografia">
         {images.map((src, index) => <button key={src} className={index === active ? "active" : ""} type="button" onClick={() => setActive(index)} aria-label={`Mostra fotografia ${index + 1} di ${title}`} aria-pressed={index === active}>
           <Image src={src} alt="" fill sizes="80px" style={{ objectFit: "contain" }} />
         </button>)}
       </div>
-      <span className="work-gallery-count" aria-live="polite">{String(active + 1).padStart(2, "0")} / {String(images.length).padStart(2, "0")}</span>
     </div>}
   </div>;
 }

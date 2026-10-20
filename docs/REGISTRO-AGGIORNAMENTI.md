@@ -38,3 +38,9 @@
 - Sites versione 33, sorgente a41c583c320f05093124629a97dd6894b1ad4ff1.
 - Ufo aggiunto a Piatti: rovere, tre foto su fondo bianco; prima foto principale.
 - Listino privato aggiornato con codice 046; prezzi esclusi dai sorgenti pubblici.
+
+## 20 ottobre 2026 — foto intere nelle gallerie
+- Sites versione 34, sorgente 9486a17ba0bcef1d71e52485e0d0159d463a5a8d.
+- Didi vista dall'alto: l'originale è intero; rimossa la sovrapposizione delle frecce sui lati.
+- Controlli sotto la foto in tutte le schede; margine CSS ridotto dal 5% al 2% per valorizzare le immagini intere.
+- Registrato il criterio di margine bianco e massima visibilità per le foto future.
