@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "canny",
+    "title": "Canny",
+    "category": "ciotole",
+    "description": "Scatola tornita con coperchio in legno di ciliegio, pensata per contenere sale o spezie. Le venature calde e i dettagli scuri ne valorizzano la forma cilindrica.",
+    "images": ["/opere/catalog/canny-01.webp", "/opere/catalog/canny-02.webp", "/opere/catalog/canny-03.webp"]
+  },
+  {
     "slug": "ufo",
     "title": "Ufo",
     "category": "piatti",

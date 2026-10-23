@@ -44,3 +44,9 @@
 - Didi vista dall'alto: l'originale è intero; rimossa la sovrapposizione delle frecce sui lati.
 - Controlli sotto la foto in tutte le schede; margine CSS ridotto dal 5% al 2% per valorizzare le immagini intere.
 - Registrato il criterio di margine bianco e massima visibilità per le foto future.
+
+## 23 ottobre 2026 — Canny
+- Sites versione 35, sorgente 3075f90ff7630cf5f85fec56f8f649e2d389c62a.
+- Canny aggiunta a Ciotole: scatola con coperchio in ciliegio per sale o spezie.
+- Tre foto su fondo bianco con margini; prima foto principale.
+- Listino privato aggiornato con codice 047; prezzi esclusi dai sorgenti pubblici.

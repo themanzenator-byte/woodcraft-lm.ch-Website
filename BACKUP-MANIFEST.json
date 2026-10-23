@@ -1,6 +1,6 @@
 {
-  "source_commit": "9486a17ba0bcef1d71e52485e0d0159d463a5a8d",
-  "sites_version": 34,
+  "source_commit": "3075f90ff7630cf5f85fec56f8f649e2d389c62a",
+  "sites_version": 35,
   "project_id": "appgprj_6ab7b9069e408191a2e75db6c09d6627",
   "files": {
     ".gitignore": "fe504d8ee83a3188fa72870d9d2181491bef78484958113fefde1d5790f87992",
@@ -82,7 +82,7 @@
     "components/ui/toggle-group.tsx": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
     "components/ui/toggle.tsx": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
     "components/ui/tooltip.tsx": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
-    "data/works.ts": "3bc26a03534b5501bcb98348b9c1a0df8cdb42a6180617a96ecd214e22fc1e0c",
+    "data/works.ts": "dd82495a410b2804f31852e90db79af4e6c42281961cd82db2526ef21301fc95",
     "db/index.ts": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
     "db/schema.ts": "ca38fe3e4240ce3696f7d849e586ca7b86dc2a3fb3b50305c6b0096a78660ea2",
     "drizzle.config.ts": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
@@ -242,7 +242,7 @@
     "README-starter.md": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7",
     "README.md": "8dcabe96e2de5a4ae40af90477a5723c3d298eac91d1d74ffc0e2d2b41121256",
     "AGENTS.md": "ab6cb931f1ff25e0c54b90dbb2d12fde6f0b86fd91a17c680aab08e1fe920108",
-    "docs/REGISTRO-AGGIORNAMENTI.md": "bca0fc81066307e873b65c78421b7916db8496510d687e7c0e272a1b0d5fe7a6",
+    "docs/REGISTRO-AGGIORNAMENTI.md": "6e978bd8a965ca7ad9762340f219b47587c2fba07207c28675a57bb5b73156e1",
     "public/opere/catalog/jupiter-01.webp": "8188a1b5886b37e178dfde98d44e3ac023dc7cd95932729c706ffb6ee782b5f5",
     "public/opere/catalog/jupiter-02.webp": "edf8bd190b8e4b8054b9f6d7194ebdb6cf55f383ba4a011a88b2d88d84650a06",
     "public/opere/catalog/babe-01.webp": "939a952ec248e0d3c755496988c96523c85f7fb326ea92fe55837a00a8f24dd6",
@@ -261,6 +261,9 @@
     "public/opere/catalog/cracks-03.webp": "44084057bee2e2c309be3a6695b132789547c6cf574601b2eb1d36613616d5f4",
     "public/opere/catalog/ufo-01.webp": "291a95ba9ccf8938c5f7e6d362cd78cc392227d2d31cb1eb3388dd869c9d077e",
     "public/opere/catalog/ufo-02.webp": "56a3e7614ca3b12c7b3ce5a0a0e2e4d872f1f545ea2debd333e6319df69d885a",
-    "public/opere/catalog/ufo-03.webp": "31e0b5a741cc05ef0f001fd3c56bb3502b07f7d02d6ebdef5995ba0213f086c8"
+    "public/opere/catalog/ufo-03.webp": "31e0b5a741cc05ef0f001fd3c56bb3502b07f7d02d6ebdef5995ba0213f086c8",
+    "public/opere/catalog/canny-01.webp": "6c4b3b5fc491d524d3548a77bca006cdaf3306db65dad959f897064c15c996e6",
+    "public/opere/catalog/canny-02.webp": "f8067229eaf08f1c89b707c72a029fb61c65ba4af222cfca74971206dc83e5e6",
+    "public/opere/catalog/canny-03.webp": "ceae0cdfa45b4a67ae2cceed7af9c9c15ba3dc4144210a9212074c841282472f"
   }
 }
