@@ -50,3 +50,9 @@
 - Canny aggiunta a Ciotole: scatola con coperchio in ciliegio per sale o spezie.
 - Tre foto su fondo bianco con margini; prima foto principale.
 - Listino privato aggiornato con codice 047; prezzi esclusi dai sorgenti pubblici.
+
+## 29 ottobre 2026 — Cylin
+- Sites versione 36, sorgente b93b63fe03ee7a51f08cc789f31a38c2287edb3a.
+- Cylin aggiunta a Ciotole: contenitore cilindrico con coperchio.
+- Tre foto su fondo bianco con margini; prima foto principale.
+- Listino privato aggiornato con codice 048; prezzi esclusi dai sorgenti pubblici.

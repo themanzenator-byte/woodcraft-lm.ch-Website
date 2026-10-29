@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "cylin",
+    "title": "Cylin",
+    "category": "ciotole",
+    "description": "Contenitore tornito con coperchio, dal profilo cilindrico e slanciato. Le venature fitte del legno incontrano sottili linee scure nella parte superiore.",
+    "images": ["/opere/catalog/cylin-01.webp", "/opere/catalog/cylin-02.webp", "/opere/catalog/cylin-03.webp"]
+  },
+  {
     "slug": "canny",
     "title": "Canny",
     "category": "ciotole",
