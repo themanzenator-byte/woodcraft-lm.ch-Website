@@ -56,3 +56,9 @@
 - Cylin aggiunta a Ciotole: contenitore cilindrico con coperchio.
 - Tre foto su fondo bianco con margini; prima foto principale.
 - Listino privato aggiornato con codice 048; prezzi esclusi dai sorgenti pubblici.
+
+## 29 ottobre 2026 — Harmony
+- Sites versione 37, sorgente 120af2ed3bae647d5388d5154acd84a6b6f57a95.
+- Harmony aggiunta a Ciotole: base in acacia e coperchio in castagno.
+- Due foto su fondo bianco; prima foto principale, opera interamente visibile.
+- Listino privato aggiornato con codice 049; prezzi esclusi dai sorgenti pubblici.

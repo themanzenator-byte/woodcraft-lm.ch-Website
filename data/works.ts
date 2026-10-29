@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "harmony",
+    "title": "Harmony",
+    "category": "ciotole",
+    "description": "Ciotola tornita con base in legno di acacia e coperchio in castagno. Le forme morbide e arrotondate accostano le diverse venature e tonalità dei due legni.",
+    "images": ["/opere/catalog/harmony-01.webp", "/opere/catalog/harmony-02.webp"]
+  },
+  {
     "slug": "cylin",
     "title": "Cylin",
     "category": "ciotole",

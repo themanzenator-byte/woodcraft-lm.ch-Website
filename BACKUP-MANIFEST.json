@@ -1,6 +1,6 @@
 {
-  "source_commit": "b93b63fe03ee7a51f08cc789f31a38c2287edb3a",
-  "sites_version": 36,
+  "source_commit": "120af2ed3bae647d5388d5154acd84a6b6f57a95",
+  "sites_version": 37,
   "project_id": "appgprj_6ab7b9069e408191a2e75db6c09d6627",
   "files": {
     ".gitignore": "fe504d8ee83a3188fa72870d9d2181491bef78484958113fefde1d5790f87992",
@@ -82,7 +82,7 @@
     "components/ui/toggle-group.tsx": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
     "components/ui/toggle.tsx": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
     "components/ui/tooltip.tsx": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
-    "data/works.ts": "eee3f89f26fda463c2061617e1d8fc951df5ce38d7b6fdbb99106d320bdb7b80",
+    "data/works.ts": "f8447323dc09a854b07487563c1291cb0f1cfdd3b9855d366dbc8cdaf8bae80a",
     "db/index.ts": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
     "db/schema.ts": "ca38fe3e4240ce3696f7d849e586ca7b86dc2a3fb3b50305c6b0096a78660ea2",
     "drizzle.config.ts": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
@@ -242,7 +242,7 @@
     "README-starter.md": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7",
     "README.md": "8dcabe96e2de5a4ae40af90477a5723c3d298eac91d1d74ffc0e2d2b41121256",
     "AGENTS.md": "ab6cb931f1ff25e0c54b90dbb2d12fde6f0b86fd91a17c680aab08e1fe920108",
-    "docs/REGISTRO-AGGIORNAMENTI.md": "91b24b9137955944aab2acb50a1d86a81421cca511dd6ef47014f4e6c18b9ce1",
+    "docs/REGISTRO-AGGIORNAMENTI.md": "ae27a96ea93250ed2721cc692738934ca2f6537013606f3456c64eb23c912106",
     "public/opere/catalog/jupiter-01.webp": "8188a1b5886b37e178dfde98d44e3ac023dc7cd95932729c706ffb6ee782b5f5",
     "public/opere/catalog/jupiter-02.webp": "edf8bd190b8e4b8054b9f6d7194ebdb6cf55f383ba4a011a88b2d88d84650a06",
     "public/opere/catalog/babe-01.webp": "939a952ec248e0d3c755496988c96523c85f7fb326ea92fe55837a00a8f24dd6",
@@ -267,6 +267,8 @@
     "public/opere/catalog/canny-03.webp": "ceae0cdfa45b4a67ae2cceed7af9c9c15ba3dc4144210a9212074c841282472f",
     "public/opere/catalog/cylin-01.webp": "53f606dd763e6c43973999400ea6fb3248a2c98289b7fb0b836b6ecc9a5b2977",
     "public/opere/catalog/cylin-02.webp": "2a995ce6c1c6bdd330c11bbd3a0dae8de28ee0e415a01f40b425b3f8da31bf30",
-    "public/opere/catalog/cylin-03.webp": "12bf99244ff89ccc175724f78305ae590fb0130e63e9a5e20541de4f9e4446a3"
+    "public/opere/catalog/cylin-03.webp": "12bf99244ff89ccc175724f78305ae590fb0130e63e9a5e20541de4f9e4446a3",
+    "public/opere/catalog/harmony-01.webp": "2f9766f2e3771e5c8771bfd2964aa4ca011b1306de5b207a6573e7ff9126fa05",
+    "public/opere/catalog/harmony-02.webp": "3212a9ff1dd2d1e804321b8be956567705b827799c5e1c3f9dd19d11ac39b062"
   }
 }
