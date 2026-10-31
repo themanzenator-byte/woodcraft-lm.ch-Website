@@ -62,3 +62,10 @@
 - Harmony aggiunta a Ciotole: base in acacia e coperchio in castagno.
 - Due foto su fondo bianco; prima foto principale, opera interamente visibile.
 - Listino privato aggiornato con codice 049; prezzi esclusi dai sorgenti pubblici.
+
+## 31 ottobre 2026 — Bell
+- Sites versione 38, sorgente 42782d989ea629975fe445fe7550b5c83518e57e.
+- Bell aggiunta a Ciotole: legno di betulla.
+- Tre foto su fondo bianco; prima foto principale, opera interamente visibile.
+- Listino privato aggiornato con codice 050; prezzi esclusi dai sorgenti pubblici.
+- Replica precedente verificata al commit GitHub 855137ac7bed216ee85c0af2231b2351cfe3a915.

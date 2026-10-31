@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "bell",
+    "title": "Bell",
+    "category": "ciotole",
+    "description": "Ciotola tornita in legno di betulla, dal profilo svasato e arrotondato. Due coppie di sottili linee scure accompagnano le venature naturali del legno.",
+    "images": ["/opere/catalog/bell-01.webp", "/opere/catalog/bell-02.webp", "/opere/catalog/bell-03.webp"]
+  },
+  {
     "slug": "harmony",
     "title": "Harmony",
     "category": "ciotole",
