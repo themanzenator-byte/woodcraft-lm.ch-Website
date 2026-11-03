@@ -69,3 +69,11 @@
 - Tre foto su fondo bianco; prima foto principale, opera interamente visibile.
 - Listino privato aggiornato con codice 050; prezzi esclusi dai sorgenti pubblici.
 - Replica precedente verificata al commit GitHub 855137ac7bed216ee85c0af2231b2351cfe3a915.
+
+## 3 novembre 2026 — Exotic
+- Sites versione 39, sorgente 33455eacd5a2e5d79fe231de8ad7c32607c1e4eb.
+- Exotic aggiunto a Piatti.
+- Quattro foto su fondo bianco; prima foto principale, ultima vista con pere.
+- Opera interamente visibile; materiale non dichiarato, senza ipotesi.
+- Listino privato aggiornato con codice 051; prezzi esclusi dai sorgenti pubblici.
+- Replica precedente verificata al commit GitHub a64bcb89fff25f0ba5e1228205c4bf5770f22157.

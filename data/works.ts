@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "exotic",
+    "title": "Exotic",
+    "category": "piatti",
+    "description": "Piatto tornito dal profilo basso e arrotondato, con venature dai toni caldi e una sottile linea scura lungo il bordo.",
+    "images": ["/opere/catalog/exotic-01.webp", "/opere/catalog/exotic-02.webp", "/opere/catalog/exotic-03.webp", "/opere/catalog/exotic-04.webp"]
+  },
+  {
     "slug": "bell",
     "title": "Bell",
     "category": "ciotole",
