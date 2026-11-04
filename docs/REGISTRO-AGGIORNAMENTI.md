@@ -84,3 +84,9 @@
 - Due foto ripulite su fondo bianco, prima foto principale; terza immagine con un singolo girasole aggiunto digitalmente e proporzionato.
 - Listino privato aggiornato con codice 052; prezzi esclusi dai sorgenti pubblici.
 - Replica precedente verificata al commit GitHub beb5f1b55237115fa5bc2928340902b916662c6e.
+
+## 4 novembre 2026 — Rocket: rimozione foto con girasole
+- Sites versione 41, sorgente 04cab5dbb6fe2967cdcba0d2b66261d0e30cb197.
+- Rimossa dalla galleria e dagli asset pubblicati la terza foto con girasole.
+- Rocket conserva le due foto originali ripulite. Nuova composizione non pubblicata, in attesa di approvazione.
+- Replica precedente verificata al commit GitHub 2b366ed955e85b315610bc7df84489baa297277d.

@@ -11,7 +11,7 @@ export const works: Work[] = [
     "title": "Rocket",
     "category": "vasi",
     "description": "Vaso tornito in legno di pero, dal profilo slanciato e modellato in una successione di forme arrotondate. Le numerose linee scure ne scandiscono la superficie e valorizzano le tonalità calde del legno.",
-    "images": ["/opere/catalog/rocket-vaso-01.webp", "/opere/catalog/rocket-vaso-02.webp", "/opere/catalog/rocket-vaso-03.webp"]
+    "images": ["/opere/catalog/rocket-vaso-01.webp", "/opere/catalog/rocket-vaso-02.webp"]
   },
   {
     "slug": "exotic",
