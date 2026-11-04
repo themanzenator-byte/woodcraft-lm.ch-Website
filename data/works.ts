@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "rocket-vaso",
+    "title": "Rocket",
+    "category": "vasi",
+    "description": "Vaso tornito in legno di pero, dal profilo slanciato e modellato in una successione di forme arrotondate. Le numerose linee scure ne scandiscono la superficie e valorizzano le tonalità calde del legno.",
+    "images": ["/opere/catalog/rocket-vaso-01.webp", "/opere/catalog/rocket-vaso-02.webp", "/opere/catalog/rocket-vaso-03.webp"]
+  },
+  {
     "slug": "exotic",
     "title": "Exotic",
     "category": "piatti",

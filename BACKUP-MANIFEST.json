@@ -1,6 +1,6 @@
 {
-  "source_commit": "33455eacd5a2e5d79fe231de8ad7c32607c1e4eb",
-  "sites_version": 39,
+  "source_commit": "044c58aa40bae1645a49c023c6a1eb9118c5a2b9",
+  "sites_version": 40,
   "project_id": "appgprj_6ab7b9069e408191a2e75db6c09d6627",
   "files": {
     ".gitignore": "fe504d8ee83a3188fa72870d9d2181491bef78484958113fefde1d5790f87992",
@@ -82,7 +82,7 @@
     "components/ui/toggle-group.tsx": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
     "components/ui/toggle.tsx": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
     "components/ui/tooltip.tsx": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
-    "data/works.ts": "fa483687526eaacb0e35adba7f09552ab4d832d5fff5e686463299d091b3b6e1",
+    "data/works.ts": "1f72db01043826639a9676ed090a9ffaed965e32bfd3410b15d023c753995a5e",
     "db/index.ts": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
     "db/schema.ts": "ca38fe3e4240ce3696f7d849e586ca7b86dc2a3fb3b50305c6b0096a78660ea2",
     "drizzle.config.ts": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
@@ -242,7 +242,7 @@
     "README-starter.md": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7",
     "README.md": "8dcabe96e2de5a4ae40af90477a5723c3d298eac91d1d74ffc0e2d2b41121256",
     "AGENTS.md": "ab6cb931f1ff25e0c54b90dbb2d12fde6f0b86fd91a17c680aab08e1fe920108",
-    "docs/REGISTRO-AGGIORNAMENTI.md": "f69ee311389198ddce8155307d4d0412597f2e4345852ac3f9cbd7a43127e5f7",
+    "docs/REGISTRO-AGGIORNAMENTI.md": "057621b995c879e1d55843fc9e4e8fc553d59f1296c3c3a4d7573412620cf2d9",
     "public/opere/catalog/jupiter-01.webp": "8188a1b5886b37e178dfde98d44e3ac023dc7cd95932729c706ffb6ee782b5f5",
     "public/opere/catalog/jupiter-02.webp": "edf8bd190b8e4b8054b9f6d7194ebdb6cf55f383ba4a011a88b2d88d84650a06",
     "public/opere/catalog/babe-01.webp": "939a952ec248e0d3c755496988c96523c85f7fb326ea92fe55837a00a8f24dd6",
@@ -276,6 +276,9 @@
     "public/opere/catalog/exotic-01.webp": "02f8d401db4330c0d12e55b58e42dbaa51e871631220e936e0d460a59687d794",
     "public/opere/catalog/exotic-02.webp": "51f68f26ced9768ec1e7dff42686a5e93fabab7cf2c1b32edfd313e5ca4aac11",
     "public/opere/catalog/exotic-03.webp": "f9a456e575bccff0a08050313c5d80d696f5d2ec5dc8d5a286432377243cf8c3",
-    "public/opere/catalog/exotic-04.webp": "25583250688cadd54a92799085ad68194f35d17edec29b1e727ced04af25b305"
+    "public/opere/catalog/exotic-04.webp": "25583250688cadd54a92799085ad68194f35d17edec29b1e727ced04af25b305",
+    "public/opere/catalog/rocket-vaso-01.webp": "fec1992311208810a01da19511a8b757c5e55752cd898275f13825c82bd8e27d",
+    "public/opere/catalog/rocket-vaso-02.webp": "431595e01a2e92e21094688eb2dfcf9f791e4cc2158f9b273c7e61ef38800ae9",
+    "public/opere/catalog/rocket-vaso-03.webp": "496a2c75515704e2bbef5b60d594b7d242d9c8bc69cd8e5152b730a84e22b6ed"
   }
 }

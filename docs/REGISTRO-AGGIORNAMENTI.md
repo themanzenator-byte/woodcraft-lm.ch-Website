@@ -77,3 +77,10 @@
 - Opera interamente visibile; materiale non dichiarato, senza ipotesi.
 - Listino privato aggiornato con codice 051; prezzi esclusi dai sorgenti pubblici.
 - Replica precedente verificata al commit GitHub a64bcb89fff25f0ba5e1228205c4bf5770f22157.
+
+## 4 novembre 2026 — Rocket (vaso)
+- Sites versione 40, sorgente 044c58aa40bae1645a49c023c6a1eb9118c5a2b9.
+- Rocket aggiunto a Vasi: legno di pero; pagina rocket-vaso distinta dalla lampada omonima.
+- Due foto ripulite su fondo bianco, prima foto principale; terza immagine con un singolo girasole aggiunto digitalmente e proporzionato.
+- Listino privato aggiornato con codice 052; prezzi esclusi dai sorgenti pubblici.
+- Replica precedente verificata al commit GitHub beb5f1b55237115fa5bc2928340902b916662c6e.
