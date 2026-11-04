@@ -90,3 +90,9 @@
 - Rimossa dalla galleria e dagli asset pubblicati la terza foto con girasole.
 - Rocket conserva le due foto originali ripulite. Nuova composizione non pubblicata, in attesa di approvazione.
 - Replica precedente verificata al commit GitHub 2b366ed955e85b315610bc7df84489baa297277d.
+
+## 4 novembre 2026 — Rocket: foto con girasole approvata
+- Sites versione 42, sorgente 2a457267bb726b8f1aecc7f1c3573ad3c803c0ca.
+- Aggiunta come terza immagine la composizione approvata: prospettiva alta, girasole grande con stelo più lungo.
+- Conservate le prime due fotografie senza fiore; immagine principale invariata.
+- Replica precedente verificata al commit GitHub 80084baa737658b506089778c4d7e4a3e40cc4bf.
