@@ -96,3 +96,10 @@
 - Aggiunta come terza immagine la composizione approvata: prospettiva alta, girasole grande con stelo più lungo.
 - Conservate le prime due fotografie senza fiore; immagine principale invariata.
 - Replica precedente verificata al commit GitHub 80084baa737658b506089778c4d7e4a3e40cc4bf.
+
+## 4 novembre 2026 — Pacman
+- Sites versione 43, sorgente bdc26e478639dbb94727d46cc70d1745cebc24be.
+- Pacman aggiunta a Ciotole: base in acero e coperchio in rovere.
+- Due foto su fondo bianco; prima foto principale, opera interamente visibile.
+- Listino privato aggiornato con codice 053; prezzi esclusi dai sorgenti pubblici.
+- Replica precedente verificata al commit GitHub 0f484b6b32de254944e3dfaffb837da26c49048c.

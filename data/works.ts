@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "pacman",
+    "title": "Pacman",
+    "category": "ciotole",
+    "description": "Ciotola tornita con base in legno di acero e coperchio in rovere. Il profilo arrotondato e il pomolo circolare accostano le venature dei due legni, con una sottile linea scura lungo la base.",
+    "images": ["/opere/catalog/pacman-01.webp", "/opere/catalog/pacman-02.webp"]
+  },
+  {
     "slug": "rocket-vaso",
     "title": "Rocket",
     "category": "vasi",
