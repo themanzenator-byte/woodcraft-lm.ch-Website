@@ -103,3 +103,10 @@
 - Due foto su fondo bianco; prima foto principale, opera interamente visibile.
 - Listino privato aggiornato con codice 053; prezzi esclusi dai sorgenti pubblici.
 - Replica precedente verificata al commit GitHub 0f484b6b32de254944e3dfaffb837da26c49048c.
+
+## 8 novembre 2026 — Kobe
+- Sites versione 44, sorgente 2fe6d2014e28dce504b3fe3f2b129e565cb4a417.
+- Kobe aggiunta a Ciotole: legno di ciliegio.
+- Quattro foto su fondo bianco; prima vista fornita principale, opera interamente visibile.
+- Listino privato aggiornato con codice 054; prezzi esclusi dai sorgenti pubblici.
+- Replica precedente verificata al commit GitHub cde044959ed6ea28ecc41c2893673c7364b90e9e.

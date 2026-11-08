@@ -1,6 +1,6 @@
 {
-  "source_commit": "bdc26e478639dbb94727d46cc70d1745cebc24be",
-  "sites_version": 43,
+  "source_commit": "2fe6d2014e28dce504b3fe3f2b129e565cb4a417",
+  "sites_version": 44,
   "project_id": "appgprj_6ab7b9069e408191a2e75db6c09d6627",
   "files": {
     ".gitignore": "fe504d8ee83a3188fa72870d9d2181491bef78484958113fefde1d5790f87992",
@@ -82,7 +82,7 @@
     "components/ui/toggle-group.tsx": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
     "components/ui/toggle.tsx": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
     "components/ui/tooltip.tsx": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
-    "data/works.ts": "3c9d227d3e6aef5fc3f9e01b0ac2ef1f095b4a9c70126ec1fd99b532c5ebad5e",
+    "data/works.ts": "45e4a2c1e5c16adffe8742333e4e6d9c0ea624d9d4e7c3f4c3ceea930756b4cf",
     "db/index.ts": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
     "db/schema.ts": "ca38fe3e4240ce3696f7d849e586ca7b86dc2a3fb3b50305c6b0096a78660ea2",
     "drizzle.config.ts": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
@@ -242,7 +242,7 @@
     "README-starter.md": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7",
     "README.md": "8dcabe96e2de5a4ae40af90477a5723c3d298eac91d1d74ffc0e2d2b41121256",
     "AGENTS.md": "ab6cb931f1ff25e0c54b90dbb2d12fde6f0b86fd91a17c680aab08e1fe920108",
-    "docs/REGISTRO-AGGIORNAMENTI.md": "4f9fc99bff8c5a46169a84b9b2ba67806344b794fe99445ed62ca4acde8628c9",
+    "docs/REGISTRO-AGGIORNAMENTI.md": "7eabb4b703906bede649b0a515907b943145729bfeda0783d0a0a94321f7597b",
     "public/opere/catalog/jupiter-01.webp": "8188a1b5886b37e178dfde98d44e3ac023dc7cd95932729c706ffb6ee782b5f5",
     "public/opere/catalog/jupiter-02.webp": "edf8bd190b8e4b8054b9f6d7194ebdb6cf55f383ba4a011a88b2d88d84650a06",
     "public/opere/catalog/babe-01.webp": "939a952ec248e0d3c755496988c96523c85f7fb326ea92fe55837a00a8f24dd6",
@@ -281,6 +281,10 @@
     "public/opere/catalog/rocket-vaso-02.webp": "431595e01a2e92e21094688eb2dfcf9f791e4cc2158f9b273c7e61ef38800ae9",
     "public/opere/catalog/rocket-vaso-girasole.webp": "22edaf253b49f3fc2fe56af6120636c4c83047aa21be115626a70b93660a981d",
     "public/opere/catalog/pacman-01.webp": "d35943bf8f4528dd0bf0b7bd21ac2d44629bac95b8edd3c6c241827d8ef8d20b",
-    "public/opere/catalog/pacman-02.webp": "969a5c9fabc79fda46b4a6059a672d97419428e92e3010188973447551fafdc1"
+    "public/opere/catalog/pacman-02.webp": "969a5c9fabc79fda46b4a6059a672d97419428e92e3010188973447551fafdc1",
+    "public/opere/catalog/kobe-01.webp": "f86dcaa5a1465de8ba275f47492e8b8d0b7ba831aa857f4378432546b774eda6",
+    "public/opere/catalog/kobe-02.webp": "2d772bea5f378881c94d3609ed4447d30f82ebed63db4224e279756e65b7e172",
+    "public/opere/catalog/kobe-03.webp": "0092f8ce12cdf8bf0ea35f298d514e623ee9e810e78ac0b73912abccfc376bc4",
+    "public/opere/catalog/kobe-04.webp": "165b06df5f716cc8d74a3a0b1fead31e3dd5d00a4bad5e3e7ca9d9f392cff0aa"
   }
 }

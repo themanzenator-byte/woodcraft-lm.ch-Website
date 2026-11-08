@@ -7,6 +7,13 @@ export type Work = { slug: string; title: string; category: Category; images: st
 // soggetto quanto più grande possibile entro il margine, senza tagli o ricostruzioni.
 export const works: Work[] = [
   {
+    "slug": "kobe",
+    "title": "Kobe",
+    "category": "ciotole",
+    "description": "Ciotola tornita in legno di ciliegio, dal profilo basso e arrotondato e dall’apertura raccolta. Le venature marcate e le naturali imperfezioni del legno incontrano due sottili linee scure lungo la superficie.",
+    "images": ["/opere/catalog/kobe-01.webp", "/opere/catalog/kobe-02.webp", "/opere/catalog/kobe-03.webp", "/opere/catalog/kobe-04.webp"]
+  },
+  {
     "slug": "pacman",
     "title": "Pacman",
     "category": "ciotole",
